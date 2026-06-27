@@ -1,0 +1,42 @@
+{
+  "name": "ernestdefoe/hero-builder",
+  "description": "A fully customizable, animated hero banner for your Flarum discussion list — set the title, subtitle, any Font Awesome icon, a colour palette or a cover image, and live community stats. A polished, modern welcome.",
+  "keywords": ["flarum", "flarum-extension", "hero", "banner", "welcome", "customization"],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ernestdefoe",
+      "email": "ernestdefoe@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/ernestdefoe/hero-builder",
+  "support": {
+    "issues": "https://github.com/ernestdefoe/hero-builder/issues",
+    "source": "https://github.com/ernestdefoe/hero-builder"
+  },
+  "require": {
+    "php": "^8.3",
+    "flarum/core": "^2.0"
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Hero Builder",
+      "category": "theme",
+      "icon": {
+        "name": "fas fa-meteor",
+        "backgroundColor": "#7c3aed",
+        "color": "#fff"
+      }
+    },
+    "flarum-cli": {
+      "modules": {
+        "js": true,
+        "css": true,
+        "locale": true
+      }
+    }
+  },
+  "minimum-stability": "beta",
+  "prefer-stable": true
+}
