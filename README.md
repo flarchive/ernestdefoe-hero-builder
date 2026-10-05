@@ -2,19 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/hero-builder.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/hero-builder) or the [upstream repository](https://github.com/ernestdefoe/hero-builder).
 
-**7** versions archived · Latest: [`v1.4.0`](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.4.0) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`v1.5.1`](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.5.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v1.0.0` | 2026-06-26 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.0.0) |
-| `v1.1.0` | 2026-06-27 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.1.0) |
-| `v1.1.1` | 2026-06-27 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.1.1) |
-| `v1.2.0` | 2026-06-27 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.2.0) |
-| `v1.3.0` | 2026-06-28 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.3.0) |
-| `v1.3.1` | 2026-06-28 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.3.1) |
-| `v1.4.0` | 2026-07-22 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-hero-builder/tree/archive/v1.4.0) |
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-hero-builder.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-hero-builder.json)
 
